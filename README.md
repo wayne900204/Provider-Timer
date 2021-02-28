@@ -22,5 +22,4 @@ Simple example using provider to make a timer.
 [My Github](https://github.com/wayne900204),
 📫  Reach me  **wayne900204@gmail.com**
 
-![ScreenShot](https://github.com/wayne900204/Flutter-Stream-Bloc-Sqflite/blob/main/sqflite.gif)
-# Provider-Timer
+![ScreenShot](https://github.com/wayne900204/Provider-Timer/blob/main/ProviderTimer.gif)
