@@ -37,7 +37,7 @@ class HomePage extends StatelessWidget {
             SizedBox(
               height: 16,
             ),
-            RaisedButton(
+            MaterialButton(
               elevation: 1,
               color: Colors.white,
               //點擊按鈕後，導轉跳到B頁
